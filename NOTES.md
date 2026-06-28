@@ -22,7 +22,7 @@ to `false`, String to `null`.
 - **O(n)** — n elements store karne ke liye n memory blocks
 
 ## Syntax
-​```java
+````java
 // Declaration & Initialization
 int[] arr = new int[size];   // Approach 1
 int[] arr = {1, 2, 3};       // Approach 2
@@ -30,4 +30,4 @@ int[] arr = {1, 2, 3};       // Approach 2
 // Access
 arr[0] = 10;
 System.out.println(arr[0]);
-​```
+````
